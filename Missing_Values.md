@@ -9,6 +9,6 @@
 - Mean/Median/Mode
 - Random Sample Imputation
 - Capturing NAN values with a new feature
-- End of distribution Imputation
+- End of Distribution Imputation
 - Arbitary Imputation
 - Frequent Categories Imputation
