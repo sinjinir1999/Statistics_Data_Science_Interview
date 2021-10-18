@@ -1,6 +1,6 @@
 # FEATURE ENGINEERING | BASICS
 
-### TYPES OF ENCODING
+### FEATURE ENGINEERING | TYPES OF ENCODING
 1. Nominal Encoding
  - One Hot Encoding
  - One Hot Encoding with Many Categorical Variables
