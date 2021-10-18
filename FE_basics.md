@@ -20,7 +20,7 @@
 - Count or Frequency Encoding
 
 ### ALGORITHMS | FEATURE SCALING
-- Liner Regression
+- Linear Regression
 - K-Nearest Neighbors
 - K Means Clustering
 
