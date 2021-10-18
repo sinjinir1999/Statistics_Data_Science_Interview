@@ -12,7 +12,7 @@
 ### FEATURE ENGINEERING | MISSING VALUES IN CATEGORICAL FEATURES
 - Delete Rows
 - Replace with Most Frequent Values or labels
-- Claasifiation Algorithm to predict missing values
+- Classifiation Algorithm to predict missing values
 - Unsupervised Machine Learning Algorithm (Clustering)
 
 ### FEATURE ENGINEERING | WITH MANY FEATURES
