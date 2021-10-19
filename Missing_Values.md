@@ -6,9 +6,9 @@
 - Missing at random (MAR)
 
 ### FEATURE ENGINEERING | TECHNIQUES TO HANDLE MISSING VALUES
-- Mean/Median/Mode
-- Random Sample Imputation
-- Capturing NAN values with a new feature
+- Mean/Median/Mode -> Missing Completely at Random
+- Random Sample Imputation -> Missing Completely at Random
+- Capturing NAN values with a new feature -> Missing Data Not at Random 
 - End of Distribution Imputation
 - Arbitary Imputation
 - Frequent Categories Imputation
